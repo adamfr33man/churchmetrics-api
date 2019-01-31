@@ -71,6 +71,7 @@ Volunteers are assigned to a particular campus. They can only input data for a s
 ```json
 {
   "email": "joe@schmoe.com",
+  "name": "test.volunteer",
   "locale": "en",
   "role": {
     "volunteer"
